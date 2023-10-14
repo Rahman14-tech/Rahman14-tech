@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-akbar-rahman-8951a9127/"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/thalenta_deha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thalenta_deha" height="30" width="40" /></a>
+<a href="mailto:akbarahman28@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 </p>
 
 ## Speciality
