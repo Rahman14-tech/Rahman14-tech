@@ -2,7 +2,7 @@
 
 ## About me
 
-<h2>My name is Muhammad Akbar Rahman and currently i'm still pursuing my bachelor degree in computer science at Bina Nusantara University. I'm experienced at front end development such as HTML, CSS, Javascript, React.js, and not to forget for back end development are in django, laravel, go language as well. Lastly for mobile development i'm comfortable at react native, and0 kotlin jetpack compose. Because of that my passion is full stack development.</h2>
+<h4>My name is Muhammad Akbar Rahman and currently i'm still pursuing my bachelor degree in computer science at Bina Nusantara University. I'm experienced at front end development such as HTML, CSS, Javascript, React.js, and not to forget for back end development are in django, laravel, go language as well. Lastly for mobile development i'm comfortable at react native, and0 kotlin jetpack compose. Because of that my passion is full stack development.</h4>
 
 ## Reach me
 
